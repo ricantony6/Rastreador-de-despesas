@@ -1,7 +1,7 @@
 
 <h1 align="center"> Rastreador de despesas</h1>
 <p align="center">
-  <img alt="projeto login-animado" src=".github/preview.png" width="49.5%">
+  <img alt="projeto rastreador de despesas" src=".github/preview.png" width="49.5%">
 </p>
 
 ## 🚀 Tecnologias
