@@ -46,4 +46,8 @@ if (text.value.trim() === '' || amount.value.trim() === '') {
   amount.value = '';
 }
 }
-  
+
+// Generate random ID
+function generateID() {
+    return Math.floor(Math.random() * 100000000);
+  }
